@@ -1,0 +1,1 @@
+{"name":"sb-client-launcher","version":"0.1.0","private":true,"main":"main.js","scripts":{"start":"electron ."},"devDependencies":{"electron":"^44.0.0"}}
